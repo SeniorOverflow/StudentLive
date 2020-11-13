@@ -1,0 +1,13 @@
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\bin\Debug\netcoreapp3.1\StudentLivingOn1000Rub.exe
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\bin\Debug\netcoreapp3.1\StudentLivingOn1000Rub.deps.json
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\bin\Debug\netcoreapp3.1\StudentLivingOn1000Rub.runtimeconfig.json
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\bin\Debug\netcoreapp3.1\StudentLivingOn1000Rub.runtimeconfig.dev.json
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\bin\Debug\netcoreapp3.1\StudentLivingOn1000Rub.dll
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\bin\Debug\netcoreapp3.1\StudentLivingOn1000Rub.pdb
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\obj\Debug\netcoreapp3.1\StudentLivingOn1000Rub.csprojAssemblyReference.cache
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\obj\Debug\netcoreapp3.1\StudentLivingOn1000Rub.AssemblyInfoInputs.cache
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\obj\Debug\netcoreapp3.1\StudentLivingOn1000Rub.AssemblyInfo.cs
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\obj\Debug\netcoreapp3.1\StudentLivingOn1000Rub.csproj.CoreCompileInputs.cache
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\obj\Debug\netcoreapp3.1\StudentLivingOn1000Rub.dll
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\obj\Debug\netcoreapp3.1\StudentLivingOn1000Rub.pdb
+C:\Users\DonEn\Desktop\University Projects\StudentLivingOn1000Rub\StudentLivingOn1000Rub\obj\Debug\netcoreapp3.1\StudentLivingOn1000Rub.genruntimeconfig.cache
